@@ -6,11 +6,8 @@ It demonstrates core C programming concepts such as:
 - Arrays
 - Structures
 - Functions
-- File handling (if used)
-
-## How to Run
-1. Open the `.cbp` file in Code::Blocks  
-2. Build and run the project
+- File handling
+- Strings
 
 ## Author
 Govind Warrier
